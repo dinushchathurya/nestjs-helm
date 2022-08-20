@@ -1,0 +1,9 @@
+dependencies:
+- name: mongodb
+  repository: https://charts.bitnami.com/bitnami
+  version: 13.0.2
+- name: rabbitmq
+  repository: https://charts.bitnami.com/bitnami
+  version: 10.2.1
+digest: sha256:02550a7591128048f7a23c42971e57623e84b48c6eae9ea09c4033e8a112a918
+generated: "2022-08-20T12:09:37.1451573+05:30"
